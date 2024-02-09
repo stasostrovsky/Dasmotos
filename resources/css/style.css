@@ -1,0 +1,67 @@
+/* * {
+    font-family: Helvetica, Arial, sans-serif;
+  }*/
+  
+  /*background-image: url("../resources/image.png");*/
+
+  header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/resources/image/pattern.jpeg");
+  }
+  
+  #hacksaw h2 {
+    background-color: mediumaquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+
+  #hacksaw span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+  }
+
+  #frames h2 {
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+  #frames span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+  }
+
+
+  #Paint h2 {
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+  #Paint span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+  }
+
+  /*
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  */
